@@ -94,7 +94,7 @@
     }
     
     .secondcard {
-        background-color: red;
+        background-color: rgb(253, 253, 253);
         display: flex;
         justify-content: center;
     }
