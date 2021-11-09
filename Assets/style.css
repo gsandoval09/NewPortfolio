@@ -77,3 +77,9 @@ a {
 .contact-info {
     background-color: rgb(72, 221, 79);
 }
+
+.goals {
+    display: flex;
+    justify-content: center;
+    width: 200px;
+}
