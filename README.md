@@ -18,7 +18,7 @@ This is an updated version of my past professional portfolio. This new and impor
 
 ## Deployed Link
 
-* [https://gsandoval09.github.io/UpdatedProfessionalPortfolio/]
+* []
 
 
 ## Authors
@@ -31,7 +31,7 @@ This is an updated version of my past professional portfolio. This new and impor
 
 ## Snapshot
 
-![Image]()
+![Image](screenshot.png)
 
 
 
