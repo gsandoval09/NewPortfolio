@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: rgb(37, 204, 73);
 }
 
 a {
@@ -63,7 +63,7 @@ a {
 }
 
 .aboutMe {
-    background: powderblue;
+    background: rgb(15, 144, 161);
 }
 
 .subtitle {
@@ -72,4 +72,8 @@ a {
 
 .card {
     background-color: tomato;
+}
+
+.contact-info {
+    background-color: rgb(72, 221, 79);
 }

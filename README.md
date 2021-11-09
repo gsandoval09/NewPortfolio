@@ -1,6 +1,6 @@
 # Project Title
 
-Updated Professional Portfolio
+New Portfolio
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ This is an updated version of my past professional portfolio. This new and impor
 
 ## Snapshot
 
-![Image](professional-portfolio-pic.png)
+![Image]()
 
 
 
@@ -44,4 +44,6 @@ This project is licensed under the MIT License
 
 * Google Fu
 * Bulma
+* w3schools
+* Bootstrap
 
