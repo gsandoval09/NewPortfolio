@@ -18,14 +18,13 @@ This is an updated version of my past professional portfolio. This new and impor
 
 ## Deployed Link
 
-* []
+* [https://gsandoval09.github.io/NewPortfolio/]
 
 
 ## Authors
 
 * **George Sandoval** 
 
-- [https://gsandoval09.github.io/UpdatedProfessionalPortfolio/]
 - [https://linkedin.com/in/george-sandoval-4467641b3] My linkedin
 - [https://github.com/gsandoval09] My github
 
